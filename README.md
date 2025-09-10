@@ -1,4 +1,4 @@
-<img width="96" height="96" alt="extracted_icon" src="https://github.com/user-attachments/assets/a08ac5fb-69f7-4882-9a82-b85eed92e515" />
+<img width="96" height="96" alt="extracted_icon" src="https://raw.githubusercontent.com/I-MM/dNote/refs/heads/main/src/dnote-icon-96.png" />
 
 # dNote
 dNote is a utility program designed to assist users with AI.  
