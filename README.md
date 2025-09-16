@@ -19,3 +19,6 @@ Currently, dNote supports **Korean only**.
 
 ## How To Use
 https://youtube.com/playlist?list=PLhpVdqleVRmwc3VZrUce0do-5nceGIWCs&si=Aj-y_MwhtII7JjQF
+
+## License
+Proprietary. See [LICENSE](./LICENSE) for details.
