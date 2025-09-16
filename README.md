@@ -21,4 +21,5 @@ Currently, dNote supports **Korean only**.
 https://youtube.com/playlist?list=PLhpVdqleVRmwc3VZrUce0do-5nceGIWCs&si=Aj-y_MwhtII7JjQF
 
 ## License
-Proprietary. See [LICENSE](./LICENSE) for details.
+Proprietary. See [LICENSE](./LICENSE) for details.  
+SPDX-License-Identifier: LicenseRef-dNote-Proprietary
