@@ -16,3 +16,6 @@ Download the dNote desktop application directly from our website: [dnote.imoveme
 
 ## Language Support
 Currently, dNote supports **Korean only**.  
+
+## How To Use
+https://youtu.be/OZYFCqj7_h0
