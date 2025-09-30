@@ -3,10 +3,10 @@
 SPDX-License-Identifier: LicenseRef-dNote-Proprietary
 
 **Effective Date:** 2025-04-22  
-**Company:** I-Movement Co., Ltd. (“Company”)
-**User:** the individual or legal entity installing or using the Software (“You” or “User”)
+**Company:** I-Movement Co., Ltd. (“Company”)  
+**User:** the individual or legal entity installing or using the Software (“You” or “User”)  
 
-BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO THIS EULA.
+BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO THIS EULA.  
 
 ---
 
