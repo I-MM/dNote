@@ -6,19 +6,18 @@ Through various AI-based features, it can automate repetitive tasks.
 
 ## Platform Support
 dNote is available as a standalone desktop application for:
-- Windows 10
-- Windows 11
+- Windows 8.1
+- Windows 10 (Recommend)
+- Windows 11 (Recommend)
 
 ## Getting Started
-Download & Install
-
-Download the dNote desktop application directly from our website: [dnote.imovement.co.kr](https://dnote.imovement.co.kr/downloads)
+Download the dNote desktop application directly from our website: [dnote.imovement.co.kr](https://dnote.imovement.co.kr/downloads?guide=true)
 
 ## Language Support
 Currently, dNote supports **Korean only**.  
 
 ## How To Use
-https://youtube.com/playlist?list=PLhpVdqleVRmwc3VZrUce0do-5nceGIWCs&si=Aj-y_MwhtII7JjQF
+[Youtube](https://www.youtube.com/playlist?list=PLhpVdqleVRmwc3VZrUce0do-5nceGIWCs)
 
 ## License
 Proprietary. See [LICENSE](./LICENSE.md) for details.
